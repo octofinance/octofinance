@@ -1,6 +1,6 @@
 # Decentralized Finance <s>Oracles</s> Tentacles
 <p align="center">
-  <img src="https://raw.githubusercontent.com/octofi/assets/master/twitter%20banner%203.png">
+  <img src="https://raw.githubusercontent.com/octofi/assets/master/media/twitter%20banner%203.png">
 </p>
 
 <p>
